@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01",
+  "last_updated": "2026-11-11",
   "categories": {
     "ai_browser_automation": {
       "description": "Cloud browser platforms for AI agents",
@@ -44,6 +44,15 @@
           "features": ["browser", "web-access", "claude", "cursor"],
           "pricing": "freemium",
           "stars_approx": null
+        },
+        {
+          "name": "agent-qa",
+          "url": "https://vostride.com",
+          "github": "vostride/agent-qa",
+          "description": "Web and native mobile QA via CLI/MCP with persistent memidex memory, validated self-improvement and step/screenshot evidence; FSL-1.1-ALv2 with competing-use restrictions, free permitted local software with model/infrastructure costs separate.",
+          "features": ["mcp", "cli", "web-testing", "mobile-testing", "persistent-memory", "validated-self-improvement", "screenshots"],
+          "pricing": "open-source",
+          "stars_approx": 853
         }
       ]
     },
